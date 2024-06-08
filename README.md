@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Car Rental System developed using Object-Oriented Programming (OOP) principles in Java. The system is designed to manage car rentals, customer details, and rental transactions efficiently. It encapsulates the data and behaviors in separate classes for modularity and maintainability.
+This project is a Car Rental System developed using Object-Oriented Programming (OOP) principles in Java. The system is designed to manage car rentals, customer details, and rental transactions efficiently. It encapsulates the data and behaviors in separate classes for maintainability.
 
 ## Classes
 
@@ -70,5 +70,5 @@ Enter the customer's phone number: 9876543210
 
 Enter the hours: 5
 
-    John Doe of ID number 12345678 and phone number 09876543210, has hired the car Toyota Corolla of plate number XYZ123.
-    As per our agreement of him/her having the car for 5 hrs, the total payable amount is Ksh5000/=
+    John Doe of ID number 12345678 and phone number 09876543210, has hired the car Toyota Corolla of plate number KDG 812F.
+As per our agreement of him/her having the car for 5 hrs, the total payable amount is Ksh5000/=
